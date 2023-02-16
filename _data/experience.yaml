@@ -1,7 +1,7 @@
 experiences:
 
 - place: "Carnegie Mellon University"
-  time: "Aug 2022 - now"
+  time: "Aug 2024 (expected)"
   title: "Master of Language Technologies"
   subtitle: "Language Technologies Institute<br/> Advised by Eduard Hovy"
   category: "school"
@@ -9,17 +9,14 @@ experiences:
 - place: "NAVER"
   time: "Jan 2021 - May 2022"
   title: "Research Engineer"
-  subtitle: "Conversation Team, CLOVA<br/> Worked with Korean GPT-3"
+  subtitle: "Conversation Team, CLOVA<br/> Large Scale Language Models"
   category: "work"
 
 - place: "Sogang University"
-  time: "Mar 2018 - Feb 2021"
-  title: "Master's Student"
-  subtitle: "Computer Science and Engineering<br/> Advised by Jungyun Seo"
-  category: "school"
-
-- place: "Sogang University"
-  time: "Mar 2011 - Feb 2017"
-  title: "Undergraduate"
-  subtitle: "American Culture and Psychology<br/> Summa Cum Laude"
+  time: " Feb 2021"
+  title: "M.S "
+  subtitle: "Computer Science and Engineering<br/> Natural Language Processing Lab"
+  time2: " Feb 2018"
+  title2: "B.A"
+  subtitle2: "American Culture and Psychology<br/> Summa Cum Laude"
   category: "school"
