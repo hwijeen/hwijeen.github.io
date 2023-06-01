@@ -6,6 +6,12 @@ experiences:
   subtitle: "Language Technologies Institute<br/> Advised by Eduard Hovy"
   category: "school"
 
+- place: "Apple"
+  time: "May 2023 - Aug 2023"
+  title: "Machine Learning Engineering Intern"
+  subtitle: "ADPT Team, AI/ML<br/> Applied Research with Large Language Models"
+  category: "work"
+
 - place: "NAVER"
   time: "Jan 2021 - May 2022"
   title: "Research Engineer"
